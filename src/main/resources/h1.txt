@@ -1,3 +1,22 @@
+
+Alpha
+
+a
+b
+c
+
+
+Numbaers
+
+2
+3
+4
+5
+6
+7
+8
+9
+
 bauu
 hiey
 xc
@@ -8,6 +27,10 @@ you
 oppa
 love 
 you
+<<<<<<< HEAD
 so
 gii'
 jii
+=======
+
+>>>>>>> master
