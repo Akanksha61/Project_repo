@@ -3,8 +3,6 @@ Alpha
 
 a
 b
-c
-d
 
 
 Numbaers
