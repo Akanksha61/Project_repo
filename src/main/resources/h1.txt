@@ -2,8 +2,7 @@
 Alpha
 
 a
-b
-c
+
 
 
 Numbaers
