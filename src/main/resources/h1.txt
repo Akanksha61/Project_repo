@@ -27,10 +27,3 @@ you
 oppa
 love 
 you
-<<<<<<< HEAD
-so
-gii'
-jii
-=======
-
->>>>>>> master
